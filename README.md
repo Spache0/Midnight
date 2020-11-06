@@ -14,4 +14,4 @@ CraftRise Title Changer,
 ve sayamayacağım birçok özellik!
 # Copyright
 ©️Spache
-Creator and copyright owner: https://www.youtube.com/channel/UCdQcC0vdeqms42IyKIhRRvw
+**Creator and Copyright Owner:** https://www.youtube.com/channel/UCdQcC0vdeqms42IyKIhRRvw
