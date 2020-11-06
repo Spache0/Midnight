@@ -1,5 +1,3 @@
-# Midnight
+# Midnight by Spache
 
-CryFix ve çaycı murat efe durgut (dai) tarafından yapılan 2006'lı 2 maymunun allah katı MidDNiGhTExTerNal MiNeCrAfT cLiEnt sourcesi
-
-ByY CrYfFixX
+Minecraft oyununda SonOyuncu ve CraftRise'de stabil olarak çalışan, diğer oyunculardan üstün olmanızı sağlayan yazılım.
