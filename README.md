@@ -19,5 +19,4 @@ Açıklama Kısmına;
 
 Midnight Client by Spache
 
-
 Spache Channel: https://www.youtube.com/channel/UCdQcC0vdeqms42IyKIhRRvw
