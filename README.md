@@ -12,3 +12,8 @@ Ninja Bridge (Slow-Normal-Scaffold),
 Rainbow Line,
 CraftRise Title Changer,
 ve sayamayacağım birçok özellik!
+# Copyright
+Yazılımımız, Credit verilerek kullanılabilir.
+Açıklama Kısmına;
+Midnight Client by Spache
+Spache Channel: https://www.youtube.com/channel/UCdQcC0vdeqms42IyKIhRRvw
