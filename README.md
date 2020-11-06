@@ -2,7 +2,7 @@
 
 Minecraft oyununda SonOyuncu ve CraftRise'de stabil olarak çalışan, diğer oyunculardan üstün olmanızı sağlayan yazılım.
 
-Yazılımda Bulunan Özellikler:
+# Yazılımda Bulunan Özellikler:
 Autoclicker (Left-Right),
 Auto Rod,
 Click Per Rod,
