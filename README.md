@@ -23,3 +23,5 @@ ve sayamayacağım bir çok özellik bu yazılımda!
 ©️ Spache
 
 **Creator and Copyright Owner:** https://www.youtube.com/channel/UCdQcC0vdeqms42IyKIhRRvw and https://www.youtube.com/channel/UCKGT1wmsOeoQo3FpXiSj3Pw
+
+**With Midnight Client, not allowed create videos, to install or publish to YouTube or other video sites**
