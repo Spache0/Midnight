@@ -17,8 +17,9 @@ ve sayamayacağım bir çok özellik bu yazılımda!
 
 # Ekran Görüntüleri:
 <img src="https://cdn.discordapp.com/attachments/774626954657529879/774627009862303755/unknown.png" />
-https://imgur.com/a/UtOGb0e
+<img src=https://cdn.discordapp.com/attachments/774626954657529879/774627340960923678/unknown.png" />
+
 # Copyright
-©️Spache
+©️ Spache
 
 **Creator and Copyright Owner:** https://www.youtube.com/channel/UCdQcC0vdeqms42IyKIhRRvw
