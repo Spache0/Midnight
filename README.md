@@ -16,7 +16,7 @@ Teleport,
 ve sayamayacağım bir çok özellik bu yazılımda!
 
 # Ekran Görüntüleri:
-<img src="https://imgur.com/a/R3DiYaD" />
+<img src="https://cdn.discordapp.com/attachments/774626954657529879/774627009862303755/unknown.png" />
 https://imgur.com/a/UtOGb0e
 # Copyright
 ©️Spache
