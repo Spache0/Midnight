@@ -14,6 +14,10 @@ Jitter & Jitter Sounds,
 Toggle Sounds,
 Teleport,
 ve sayamayacağım bir çok özellik bu yazılımda!
+
+# Ekran Görüntüleri:
+https://imgur.com/a/R3DiYaD
+https://imgur.com/a/UtOGb0e
 # Copyright
 ©️Spache
 
