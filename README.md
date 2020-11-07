@@ -22,4 +22,4 @@ ve sayamayacağım bir çok özellik bu yazılımda!
 # Copyright
 ©️ Spache
 
-**Creator and Copyright Owner:** https://www.youtube.com/channel/UCdQcC0vdeqms42IyKIhRRvw
+**Creator and Copyright Owner:** https://www.youtube.com/channel/UCdQcC0vdeqms42IyKIhRRvw and https://www.youtube.com/channel/UCKGT1wmsOeoQo3FpXiSj3Pw
