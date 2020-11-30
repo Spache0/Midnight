@@ -24,7 +24,9 @@ ve sayamayacağım bir çok özellik bu yazılımda!
 
 **Creator and Copyright Owner: Spache**
 [Youtube](https://www.youtube.com/channel/UCdQcC0vdeqms42IyKIhRRvw)
+
 [Youtube-2](https://www.youtube.com/channel/UCPHbxjYWfVEj1wiU7yzbumQ)
+
 [GitHub](https://github.com/Spache0)
 
 
